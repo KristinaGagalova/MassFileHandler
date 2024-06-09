@@ -1,2 +1,3 @@
-# pod5_nanopore_tools
-Set of scripts to manage fast5 and pod5 files from Nanopore sequencing
+# Files to check the integrity of large batches of files
+
+The repo is a collection of scripts to check the integrity and content of moved files. 
